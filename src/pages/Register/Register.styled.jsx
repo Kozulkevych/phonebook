@@ -127,7 +127,6 @@ export const Input = styled.input`
     border-bottom: 1px solid yellow;
   }
 
-
   @media screen and (min-width: 768px) {
     margin-left: 20px;
     padding: 6px 12px;
